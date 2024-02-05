@@ -9,5 +9,5 @@ public class KennyartifactApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(KennyartifactApplication.class, args);
 	}
-
+	
 }
